@@ -1,5 +1,7 @@
 # Assignment6
+# Graph Implementation
 
+This project provides a generic implementation of a weighted graph data structure in Java. The `MyGraph` class allows you to create a graph, add vertices, and add weighted edges between them. It also supports various graph operations such as printing the graph, removing edges, checking for edge existence, and performing depth-first search (DFS) on the graph.
 # Main
 ```java
 import java.util.Map;
