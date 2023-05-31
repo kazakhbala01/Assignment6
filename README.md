@@ -159,7 +159,7 @@ public class Search {
     }
     }
 ```
-#Dijkstra search
+# Dijkstra search
 ```java
 import java.util.Comparator;
 import java.util.HashMap;
